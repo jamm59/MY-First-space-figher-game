@@ -3,7 +3,7 @@ from random import randint
 pygame.font.init()
 
 # ........................................................GLOBAL VARIABLES...........................................................
-IMAGE_DIR = 'C:/Users/juden/Desktop/python/python pygame/assets/images'
+IMAGE_DIR = 'assets/images'
 pygame.display.set_caption('First Python Game')
 HEALTH_FONT = pygame.font.SysFont('calibri', 35)
 WIDTH_W,HEIGHT_W = 900,500
